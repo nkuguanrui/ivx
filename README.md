@@ -17,4 +17,4 @@ wind数据库，上证50ETF期权日度数据
 python+《上证50ETF波动率指数编制方案》
 ### 结论
 复现的波动率指数和中国波指相似度高达98.3%，达到实践可用水平。如图1.
-![image](IVX.png)
+![image](https://github.com/nkuguanrui/ivx/blob/main/IVX.png)
